@@ -51,6 +51,7 @@
 </div>
 
 <br>
+
 ## Detalhes na responsividade
 
 <br>
