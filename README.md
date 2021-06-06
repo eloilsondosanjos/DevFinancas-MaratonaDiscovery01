@@ -51,8 +51,9 @@
 </div>
 
 <br>
-
 ## Detalhes na responsividade
+
+<br>
 
 <div align="center">
 
