@@ -39,6 +39,7 @@
 
   <img alt="Frontend" src="./assets/capa.png" width="100%">
 </div>
+
 <br>
 
 ## Veja Alguns funcionalidades
@@ -85,6 +86,8 @@ Projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 📦 Como Baixar e Executar o Projeto:
 
+<br>
+
 ```bash
 
   # Primeiro clone o repositório para sua maquina
@@ -101,11 +104,17 @@ Projeto foi desenvolvido com as seguintes tecnologias:
 
 ```
 
+<br>
+
 ## 📟 Layout
 
 Você pode ver o layout detalhado através do figma caso tenha uma conta. [nesse link](https://www.figma.com/file/jafca2ljPxIJUtQOLGXctq/dev.finance-Maratona-Discover-Copy?fuid=851206829887265816)
 
+<br>
+
 ## 📋 Licença
+
+<br>
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.htm) para mais detalhes.
 
