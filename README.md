@@ -99,19 +99,16 @@ Projeto foi desenvolvido com as seguintes tecnologias:
   # Clique com o botão direito no arquivo index.html
   # Nas opções exibidas clique em Open with Live Server
 
+```
 
 ## 📟 Layout
 
-Você pode ver o layout detalhado através do figma caso tenha uma conta.
-[nesse link](https://www.figma.com/file/jafca2ljPxIJUtQOLGXctq/dev.finance-Maratona-Discover-Copy?fuid=851206829887265816)
-
+Você pode ver o layout detalhado através do figma caso tenha uma conta. [nesse link](https://www.figma.com/file/jafca2ljPxIJUtQOLGXctq/dev.finance-Maratona-Discover-Copy?fuid=851206829887265816)
 
 ## 📋 Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.htm) para mais detalhes.
 
-
 ---
 
 Desenvolvido por Eloilson dos Anjos
-```
